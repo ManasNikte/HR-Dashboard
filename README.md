@@ -1,7 +1,5 @@
 # Human Resources Dashboard | Tableau & Python
 
-**🛠️ Tools Used:** Tableau, Python 
-
 ## Overview
 Built a comprehensive **HR Analytics Dashboard** in Tableau using synthetic data generated with Python’s **Faker** library and ChatGPT prompts. The dataset simulates **8,950 employee records** with realistic HR attributes, allowing insights into workforce trends and HR metrics.
 
